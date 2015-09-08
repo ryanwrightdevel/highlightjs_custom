@@ -1,6 +1,58 @@
+# Highlight.js Version 8.8.0
+This is a custom build of highlight.js that include support for the languages that I'll use most often.
+The standard download includes support for 22 of the most popular.
+
+Apache
+Bash
+C#
+C++
+CSS
+CoffeeScript
+Diff
+HTML/XML
+HTTP
+Ini
+JSON
+Java
+Javascript
+Makefile
+Markdown
+Nginx
+Objective C
+PHP
+Perl
+Python
+Ruby
+SQL
+CMake
+Access Log
+ARM Assembly
+AVR Assembler
+DOS .bat
+DNS Zone File
+Django
+Gradle
+Groovy
+Haml
+Less
+Lisp
+Mathematica
+Matlab
+PowerShell
+Puppet
+Python Profile
+SCSS
+Swift
+Twig
+VB.net
+Vim Script
+XQuery
+Zephir
+
+
 # Highlight.js
 
-[![Build Status](https://travis-ci.org/isagalaev/highlight.js.svg?branch=master)](https://travis-ci.org/isagalaev/highlight.js)
+
 
 Highlight.js is a syntax highlighter written in JavaScript. It works in
 the browser as well as on the server. It works with pretty much any
